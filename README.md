@@ -1,1 +1,1 @@
-# cs240-spring2022-cp2-jongjunkim
+# cs240-spring2022-cp1-template

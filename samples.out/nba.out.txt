@@ -1,0 +1,140 @@
+
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+: Teams: 30
+Miami Heat
+Milwaukee Bucks
+Chicago Bulls
+Cleveland Cavaliers
+Philadelphia 76ers
+Toronto Rapters
+Boston Celtics
+Brooklyn Nets
+Charlotte Hornets
+Atlanta Hawks
+Washington Wizards
+NY Knicks
+Indiana Pacers
+Orlando Magic
+Detroit Pistons
+Phoenix Suns
+GoldenState Warriors
+Memphis Grizzlies
+Utah Jazz
+Dallas Mavericks
+Denver Nuggets
+Minnesota Timberwolves
+LA Clippers
+LosAngeles Lakers
+NewOrleans Pelicans
+Portland TrailBlazers
+Sacramento Kings
+SanAntonio Spurs
+OklahomaCity Thunder
+Houston Rockets
+
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: Duplicate team nickname Rockets not added
+
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: Duplicate team nickname Heat not added
+
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: Duplicate team nickname Clippers not added
+
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+: 

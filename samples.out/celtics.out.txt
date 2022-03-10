@@ -1,0 +1,102 @@
+
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:      Location:      Nickname: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+:        First Name:         Last Name:            Number:      Active (y/n):              Team: 
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+: Teams: 3
+LosAngeles Lakers
+Boston Celtics
+Phoenix Suns
+
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+: Team: Boston Celtics
+   Players:
+Tatum, Jason (#0)  [active]
+Williams, Grant (#12)  [active]
+Schroder, Dennis (#71)  [active]
+Smart, Marcus (#36)  [active]
+Horford, Al (#42)  [active]
+Williams, Robert (#44)  [active]
+Pritchard, Payton (#11)  [active]
+Richardson, Josh (#8)  [active]
+Langford, Romeo (#9)  [active]
+Brown, Jaylen (#26)  [active]
+Nesmith, Aaron (#26)  [active]
+Freedom, Enes (#13)  [active]
+
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+: Team: Phoenix Suns
+   Players:
+Paul, Chris (#3)  [active]
+
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+: Team: LosAngeles Lakers
+   Players:
+
+Enter a command: 
+Choose from ["Team" "Player" "League" "Roster" "Quit"]
+: 
